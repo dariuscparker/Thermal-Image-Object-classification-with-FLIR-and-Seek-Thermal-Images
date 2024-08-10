@@ -48,7 +48,7 @@ This project demonstrates the following steps:
 
 It is recommended to run this notebook in a Google Colab environment, with the use of a GPU. You can view and run the notebook directly in Google Colab by clicking the link below:
 
-[**Open in Google Colab**]([https://colab.research.google.com/drive/1qTHWKclgj_ENl8ccEclF0swiXiQRAM9i#scrollTo=B5u4ad2LHzbP](https://colab.research.google.com/drive/1qTHWKclgj_ENl8ccEclF0swiXiQRAM9i?usp=sharing)) 
+[**Open in Google Colab**]([[https://colab.research.google.com/drive/1qTHWKclgj_ENl8ccEclF0swiXiQRAM9i#scrollTo=B5u4ad2LHzbP]
 
 ### **Dataset Access**
 Since the dataset is large, it is not included in this repository. You can download it from the [Mendeley Data link](https://data.mendeley.com/datasets/btmrycjpbj/1) This link can also be found in the notebook.
