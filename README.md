@@ -12,7 +12,7 @@ The dataset can be downloaded from the following link:
 [**Thermal Image dataset for object classification**](https://data.mendeley.com/datasets/btmrycjpbj/1)
 
 ### **Dataset Structure**
-The dataset is organized into training and test sets for each camera, with subdirectories for each class (`cat`, `car`, `man`). 
+The dataset is organized into training and test sets for each camera, with subdirectories for each class (`cat`, `car`, `man`). The data sets are combined for training.
 
 ## **Project Overview**
 
