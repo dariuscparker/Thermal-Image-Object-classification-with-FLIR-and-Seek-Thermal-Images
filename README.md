@@ -9,6 +9,7 @@ The dataset used in this project comprises images from two different thermal cam
 - **FLIR**: 1014 images with a resolution of 1080 x 1440.
 
 The dataset can be downloaded from the following link:  
+
 [**Thermal Image dataset for object classification**](https://data.mendeley.com/datasets/btmrycjpbj/1)
 
 ### **Dataset Structure**
